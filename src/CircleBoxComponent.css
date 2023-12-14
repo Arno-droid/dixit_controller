@@ -1,0 +1,17 @@
+.circle-box-container {
+  position: relative;
+  width: 90vw; /* Adjust the size of the container as needed */
+  height: 90vw;
+}
+
+.circle-box {
+  position: absolute;
+  width: 14vw; /* Adjust the size of each box as needed */
+  height: 14vw;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff; /* Adjust the text color as needed */
+  font-weight: bold;
+}
