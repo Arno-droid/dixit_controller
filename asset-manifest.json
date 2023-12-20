@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dixit-controller/static/css/main.d7788d31.css",
+    "main.js": "/dixit-controller/static/js/main.0e9e4c5a.js",
+    "static/js/787.0496fc01.chunk.js": "/dixit-controller/static/js/787.0496fc01.chunk.js",
+    "static/media/controller.png": "/dixit-controller/static/media/controller.57c82371d2a93a41f0e0.png",
+    "index.html": "/dixit-controller/index.html",
+    "main.d7788d31.css.map": "/dixit-controller/static/css/main.d7788d31.css.map",
+    "main.0e9e4c5a.js.map": "/dixit-controller/static/js/main.0e9e4c5a.js.map",
+    "787.0496fc01.chunk.js.map": "/dixit-controller/static/js/787.0496fc01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7788d31.css",
+    "static/js/main.0e9e4c5a.js"
+  ]
+}
